@@ -10,3 +10,9 @@ Keep Patience
 
 Goal is to do sufficent.
 Do not get into tutorial hell.
+
+Documentation
+    -MDN 
+    -tc39.es (ECMAScript)
+
+Goal Kya hai ? -----------
